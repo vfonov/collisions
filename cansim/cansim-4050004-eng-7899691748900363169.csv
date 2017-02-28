@@ -1,0 +1,27 @@
+"Table 405-0004 Vehicle registrations, annual (number)(2,3)"
+Survey or program details:
+Vehicle Registrations - 2747
+Geography,Canada,Canada,Canada,Canada,Canada
+Type of vehicle,"Light road motor vehicles (vehicles weighing less than 4,500 kilograms)","Medium duty trucks (vehicles weighing 4,500 kilograms to 14,999 kilograms)","Heavy duty truck (vehicles weighing 15,000 kilograms or more)",Buses,Motorcyles and mopeds
+1999,16538054,386804,262326,73174,273957
+2000,16832180,391285,270148,77341,311275
+2001,17054798,387330,267129,74086,318330
+2002,17543659,366962,277339,79364,350088
+2003,17768773,379079,282420,79948,373362
+2004,17989919,393528,285942,77842,408822
+2005,18275275,415764,301574,78962,443718
+2006,18738941,442607,318272,80447,484903
+2007,19198960,461144,328128,82583,522433
+2008,19612935,490147,332873,84163,566894
+2009,19876990,503505,326190,85579,594866
+2010,20267982,480780,396232,86327,616280
+2011,20608101,505702,415422,86594,631097
+2012,20651993,533824,431614,87387,661452
+2013,21261660,550572,432684,88878,672428
+2014,21729596,575363,455004,90650,688204
+Footnotes:
+2,"For 2001, the number of trailers for Ontario was calculated using the file provided by Ontario in January, 2002"
+3,"A break in the series occurs with the release of the 2010 data due to an improvement in the method used to assign vehicle type. At the national level, the main impact of this change was a net increase in the number of vehicles weighing 15 tonnes and more and a net decrease in the number of vehicles weighing from 4.5 tonnes to less than 15 tonnes. The impacts vary considerably by province and territory."
+Source:
+"Statistics Canada. Table 405-0004 - Vehicle registrations, annual (number)"
+"(accessed: January 17, 2017)"
